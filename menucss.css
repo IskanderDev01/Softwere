@@ -1,0 +1,24 @@
+:root {
+    --body-color: #fff;
+    --nav-color: #8a8a8a;
+    --nav-hover-color: #6a6a6a;
+    --logo-color: #333347;
+    --home-text: #818198;
+    --home-subtitle-color: #5c5c5c;
+    --home-title-color: #3a3a47;
+    --green-color: #21bf73;
+    --title-color: #383B61;
+    --home-title-color: #3a3a47;
+    --text-color: #6A7076;
+    --succes-color: #f0f5f9;
+    --text-size: 13px;
+    --title-size: 24px;
+    --bold-font: 800;
+    --subtitle-font: 700;
+    --nav-font: 600;
+    --text-font: 400;
+    --z-fixed: 100;
+    --z-tooltip: 10;
+    --z-slow: 1;
+}
+
